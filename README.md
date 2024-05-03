@@ -1,0 +1,2 @@
+# MasalaYechimlar
+Masalalarga yechimlar
